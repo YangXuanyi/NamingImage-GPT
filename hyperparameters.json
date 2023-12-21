@@ -1,0 +1,14 @@
+{
+    "hyperparameters": {
+        "OFA_model_path": "F:/NEU_Project_Code/GitHub/Model_weigths_download/ofa-cn-base-muge-v2/",
+        "gpt_model_name": "gpt-3.5-turbo",
+        "gpt_api_key": "sk-yIjuHjfVC2v4Of88050b6a4404444d9eAdD507DfC1Dd382d",
+        "output_file_path": "./output.csv"
+    },
+    "comments": {
+        "OFA_model_path": "The path for OFA model weights can be downloaded from huggingface or the link I provided, and then modify the path",
+        "gpt_model_name": "The model of the GPT model, which is the API I am currently applying for",
+        "gpt_api_key": "GPT API key, if you want to use your own, replace it with your own",
+        "output_file_path": "Path to import text data files after batch extraction"
+    }
+}
